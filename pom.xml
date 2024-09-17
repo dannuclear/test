@@ -13,7 +13,7 @@
 	<artifactId>lesson</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>lesson</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for Spring Boot superbranch</description>
 	<url />
 
 	<profiles>
